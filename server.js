@@ -17,7 +17,18 @@ const UPLOADS = process.env.VERCEL
 :path.join(ROOT,'uploads');
 for (const dir of [DATA, UPLOADS]) fs.mkdirSync(dir, { recursive: true });
 const files = { users: 'users.json', doubts: 'doubts.json', resources: 'resources.json', sessions: 'sessions.json', exchanges: 'exchanges.json', reports: 'reports.json', messages: 'messages.json', learning: 'learning.json' };
-function read(name) { const p = path.join(DATA, files[name]); if (!fs.existsSync(p)) fs.writeFileSync(p, '[]'); try { return JSON.parse(fs.readFileSync(p, 'utf8')); } catch { return []; } }
+function read(name) { 
+  const p = path.join(DATA, files[name]);
+   if (!fs.existsSync(p)){
+    return [];
+   }
+   try { 
+    return JSON.parse(fs.readFileSync(p, 'utf8'));
+   } catch(e){
+    console.error("Read error.",name,e);
+    return[];
+   }}
+
 function write(name, value) { fs.writeFileSync(path.join(DATA, files[name]), JSON.stringify(value, null, 2)); }
 function id() { return crypto.randomUUID(); }
 function safeUser(u) { const { password, ...safe } = u; return safe; }
