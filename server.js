@@ -11,10 +11,13 @@ const { canMessage } = require('./lib/access');
 const app = express();
 const PORT = Number(process.env.PORT || 3000);
 const ROOT = __dirname;
-const DATA = path.join(ROOT, 'data');
-const UPLOADS = process.env.VERCEL
-?'/tmp/edubridge-uploads'
-:path.join(ROOT,'uploads');
+const DATA = process.env.DATA_DIR ||
+path.join(ROOT, 'data');
+const UPLOADS =
+process.env.UPLOADS_DIR ||
+(process.env.VERCEL
+? '/tmp/edubridge-uploads'
+: path.join(ROOT,'uploads'));
 for (const dir of [DATA, UPLOADS]) fs.mkdirSync(dir, { recursive: true });
 const files = { users: 'users.json', doubts: 'doubts.json', resources: 'resources.json', sessions: 'sessions.json', exchanges: 'exchanges.json', reports: 'reports.json', messages: 'messages.json', learning: 'learning.json' };
 function read(name) { 
