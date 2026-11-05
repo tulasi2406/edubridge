@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "c",
+    "title": "C Programming",
+    "category": "Programming",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for C Programming.",
+    "roadmap": [
+      "Syntax, variables, types and input/output",
+      "Conditionals, loops, arrays and functions",
+      "Pointers, structures, memory and small projects"
+    ],
+    "importantTopics": [
+      "Syntax, variables, types and input/output",
+      "Conditionals, loops, arrays and functions",
+      "Pointers, structures, memory and small projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://en.cppreference.com/w/c",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "freeCodeCamp — free lessons and projects",
+        "url": "https://www.freecodecamp.org/learn/",
+        "kind": "Practice and projects"
+      }
+    ],
+    "videos": [
+      {
+        "label": "C Programming full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=C%20Programming%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "C Programming topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=C%20Programming%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "cpp",
+    "title": "C++",
+    "category": "Programming",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for C++.",
+    "roadmap": [
+      "Syntax, types and control flow",
+      "Functions, classes and standard library",
+      "Templates, STL, memory and problem solving"
+    ],
+    "importantTopics": [
+      "Syntax, types and control flow",
+      "Functions, classes and standard library",
+      "Templates, STL, memory and problem solving"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://en.cppreference.com/w/",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "freeCodeCamp — free lessons and projects",
+        "url": "https://www.freecodecamp.org/learn/",
+        "kind": "Practice and projects"
+      }
+    ],
+    "videos": [
+      {
+        "label": "C++ full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=C%2B%2B%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "C++ topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=C%2B%2B%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "python",
+    "title": "Python",
+    "category": "Programming",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Python.",
+    "roadmap": [
+      "Syntax, data types and control flow",
+      "Functions, modules, collections and files",
+      "OOP, testing, libraries and projects"
+    ],
+    "importantTopics": [
+      "Syntax, data types and control flow",
+      "Functions, modules, collections and files",
+      "OOP, testing, libraries and projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://docs.python.org/3/tutorial/",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "freeCodeCamp — free lessons and projects",
+        "url": "https://www.freecodecamp.org/learn/",
+        "kind": "Practice and projects"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Python full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Python%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Python topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Python%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "java",
+    "title": "Java",
+    "category": "Programming",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Java.",
+    "roadmap": [
+      "Syntax, types and object-oriented basics",
+      "Collections, exceptions and file handling",
+      "Generics, concurrency and application projects"
+    ],
+    "importantTopics": [
+      "Syntax, types and object-oriented basics",
+      "Collections, exceptions and file handling",
+      "Generics, concurrency and application projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://dev.java/learn/",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "freeCodeCamp — free lessons and projects",
+        "url": "https://www.freecodecamp.org/learn/",
+        "kind": "Practice and projects"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Java full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Java%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Java topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Java%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "javascript",
+    "title": "JavaScript",
+    "category": "Programming",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for JavaScript.",
+    "roadmap": [
+      "Values, variables, functions and control flow",
+      "Arrays, objects, DOM and asynchronous code",
+      "Modules, APIs, testing and web projects"
+    ],
+    "importantTopics": [
+      "Values, variables, functions and control flow",
+      "Arrays, objects, DOM and asynchronous code",
+      "Modules, APIs, testing and web projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "freeCodeCamp — free lessons and projects",
+        "url": "https://www.freecodecamp.org/learn/",
+        "kind": "Practice and projects"
+      }
+    ],
+    "videos": [
+      {
+        "label": "JavaScript full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=JavaScript%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "JavaScript topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=JavaScript%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "html-css",
+    "title": "HTML & CSS",
+    "category": "Programming",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for HTML & CSS.",
+    "roadmap": [
+      "Semantic HTML and page structure",
+      "CSS selectors, layout and responsive design",
+      "Accessibility, forms and complete page builds"
+    ],
+    "importantTopics": [
+      "Semantic HTML and page structure",
+      "CSS selectors, layout and responsive design",
+      "Accessibility, forms and complete page builds"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "freeCodeCamp — free lessons and projects",
+        "url": "https://www.freecodecamp.org/learn/",
+        "kind": "Practice and projects"
+      }
+    ],
+    "videos": [
+      {
+        "label": "HTML & CSS full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=HTML%20%26%20CSS%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "HTML & CSS topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=HTML%20%26%20CSS%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "react",
+    "title": "React",
+    "category": "Programming",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for React.",
+    "roadmap": [
+      "JavaScript and component fundamentals",
+      "Props, state, events and effects",
+      "Routing, data flow and accessible projects"
+    ],
+    "importantTopics": [
+      "JavaScript and component fundamentals",
+      "Props, state, events and effects",
+      "Routing, data flow and accessible projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://react.dev/learn",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "freeCodeCamp — free lessons and projects",
+        "url": "https://www.freecodecamp.org/learn/",
+        "kind": "Practice and projects"
+      }
+    ],
+    "videos": [
+      {
+        "label": "React full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=React%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "React topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=React%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "sql",
+    "title": "SQL",
+    "category": "Programming",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for SQL.",
+    "roadmap": [
+      "Tables, data types and SELECT queries",
+      "Filtering, joins, grouping and subqueries",
+      "Transactions, indexes and relational design"
+    ],
+    "importantTopics": [
+      "Tables, data types and SELECT queries",
+      "Filtering, joins, grouping and subqueries",
+      "Transactions, indexes and relational design"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://www.postgresql.org/docs/current/tutorial.html",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "freeCodeCamp — free lessons and projects",
+        "url": "https://www.freecodecamp.org/learn/",
+        "kind": "Practice and projects"
+      }
+    ],
+    "videos": [
+      {
+        "label": "SQL full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=SQL%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "SQL topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=SQL%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "dsa",
+    "title": "Data Structures",
+    "category": "Computer Science",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Data Structures.",
+    "roadmap": [
+      "Complexity, arrays, linked lists and stacks",
+      "Trees, heaps, hash tables and graphs",
+      "Choose structures through implementation and practice"
+    ],
+    "importantTopics": [
+      "Complexity, arrays, linked lists and stacks",
+      "Trees, heaps, hash tables and graphs",
+      "Choose structures through implementation and practice"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Data Structures full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Data%20Structures%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Data Structures topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Data%20Structures%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "algorithms",
+    "title": "Algorithms",
+    "category": "Computer Science",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Algorithms.",
+    "roadmap": [
+      "Complexity and problem decomposition",
+      "Sorting, searching, recursion and greedy methods",
+      "Dynamic programming, graphs and timed practice"
+    ],
+    "importantTopics": [
+      "Complexity and problem decomposition",
+      "Sorting, searching, recursion and greedy methods",
+      "Dynamic programming, graphs and timed practice"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://ocw.mit.edu/search/?q=algorithms",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Algorithms full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Algorithms%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Algorithms topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Algorithms%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "dbms",
+    "title": "Database Management Systems",
+    "category": "Computer Science",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Database Management Systems.",
+    "roadmap": [
+      "Relational models, keys and normalization",
+      "SQL queries, joins and transactions",
+      "Indexes, concurrency and database design"
+    ],
+    "importantTopics": [
+      "Relational models, keys and normalization",
+      "SQL queries, joins and transactions",
+      "Indexes, concurrency and database design"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Database Management Systems full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Database%20Management%20Systems%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Database Management Systems topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Database%20Management%20Systems%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "os",
+    "title": "Operating Systems",
+    "category": "Computer Science",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Operating Systems.",
+    "roadmap": [
+      "Processes, threads and system calls",
+      "Scheduling, synchronization and memory",
+      "File systems, virtual memory and case studies"
+    ],
+    "importantTopics": [
+      "Processes, threads and system calls",
+      "Scheduling, synchronization and memory",
+      "File systems, virtual memory and case studies"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://ocw.mit.edu/search/?q=operating%20systems",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Operating Systems full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Operating%20Systems%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Operating Systems topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Operating%20Systems%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "networks",
+    "title": "Computer Networks",
+    "category": "Computer Science",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Computer Networks.",
+    "roadmap": [
+      "Layers, addressing and network fundamentals",
+      "Routing, transport protocols and DNS",
+      "Security, troubleshooting and protocol practice"
+    ],
+    "importantTopics": [
+      "Layers, addressing and network fundamentals",
+      "Routing, transport protocols and DNS",
+      "Security, troubleshooting and protocol practice"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Computer Networks full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Computer%20Networks%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Computer Networks topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Computer%20Networks%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "software",
+    "title": "Software Engineering",
+    "category": "Computer Science",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Software Engineering.",
+    "roadmap": [
+      "Requirements, planning and version control",
+      "Design, testing and iterative delivery",
+      "Quality, maintenance and team projects"
+    ],
+    "importantTopics": [
+      "Requirements, planning and version control",
+      "Design, testing and iterative delivery",
+      "Quality, maintenance and team projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://ocw.mit.edu/search/?q=software%20engineering",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Software Engineering full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Software%20Engineering%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Software Engineering topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Software%20Engineering%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "ai",
+    "title": "Artificial Intelligence",
+    "category": "AI & Technology",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Artificial Intelligence.",
+    "roadmap": [
+      "Search, logic and problem formulation",
+      "Knowledge representation and machine learning basics",
+      "Evaluate AI applications, limitations and projects"
+    ],
+    "importantTopics": [
+      "Search, logic and problem formulation",
+      "Knowledge representation and machine learning basics",
+      "Evaluate AI applications, limitations and projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://ocw.mit.edu/search/?q=artificial%20intelligence",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Artificial Intelligence full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Artificial%20Intelligence%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Artificial Intelligence topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Artificial%20Intelligence%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "ml",
+    "title": "Machine Learning",
+    "category": "AI & Technology",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Machine Learning.",
+    "roadmap": [
+      "Linear algebra, probability and Python foundations",
+      "Supervised and unsupervised learning",
+      "Evaluation, feature work and end-to-end projects"
+    ],
+    "importantTopics": [
+      "Linear algebra, probability and Python foundations",
+      "Supervised and unsupervised learning",
+      "Evaluation, feature work and end-to-end projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://developers.google.com/machine-learning",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Machine Learning full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Machine%20Learning%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Machine Learning topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Machine%20Learning%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "deep-learning",
+    "title": "Deep Learning",
+    "category": "AI & Technology",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Deep Learning.",
+    "roadmap": [
+      "Neural network foundations and gradients",
+      "CNNs, sequence models and training practice",
+      "Regularization, evaluation and reproducible projects"
+    ],
+    "importantTopics": [
+      "Neural network foundations and gradients",
+      "CNNs, sequence models and training practice",
+      "Regularization, evaluation and reproducible projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://www.tensorflow.org/tutorials",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Deep Learning full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Deep%20Learning%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Deep Learning topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Deep%20Learning%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "data-science",
+    "title": "Data Science",
+    "category": "AI & Technology",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Data Science.",
+    "roadmap": [
+      "Python, statistics and data cleaning",
+      "Exploration, visualization and basic models",
+      "Communicate findings through reproducible projects"
+    ],
+    "importantTopics": [
+      "Python, statistics and data cleaning",
+      "Exploration, visualization and basic models",
+      "Communicate findings through reproducible projects"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://www.kaggle.com/learn",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Data Science full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Data%20Science%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Data Science topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Data%20Science%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "cybersecurity",
+    "title": "Cybersecurity",
+    "category": "AI & Technology",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Cybersecurity.",
+    "roadmap": [
+      "Networking, operating systems and threat basics",
+      "Defensive controls, identity and secure coding",
+      "Practice in authorized learning labs and incident response"
+    ],
+    "importantTopics": [
+      "Networking, operating systems and threat basics",
+      "Defensive controls, identity and secure coding",
+      "Practice in authorized learning labs and incident response"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://www.cisa.gov/resources-tools/resources",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Cybersecurity full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Cybersecurity%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Cybersecurity topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Cybersecurity%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "cloud",
+    "title": "Cloud Computing",
+    "category": "AI & Technology",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Cloud Computing.",
+    "roadmap": [
+      "Networking, Linux and virtualization fundamentals",
+      "Cloud services, storage and identity basics",
+      "Deploy, monitor and secure a small application"
+    ],
+    "importantTopics": [
+      "Networking, Linux and virtualization fundamentals",
+      "Cloud services, storage and identity basics",
+      "Deploy, monitor and secure a small application"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://learn.microsoft.com/training/",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Cloud Computing full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Cloud%20Computing%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Cloud Computing topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Cloud%20Computing%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "math",
+    "title": "Engineering Mathematics",
+    "category": "Engineering",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Engineering Mathematics.",
+    "roadmap": [
+      "Functions, limits and calculus foundations",
+      "Linear algebra, differential equations and probability",
+      "Solve engineering problems with timed practice"
+    ],
+    "importantTopics": [
+      "Functions, limits and calculus foundations",
+      "Linear algebra, differential equations and probability",
+      "Solve engineering problems with timed practice"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Engineering Mathematics full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Engineering Mathematics topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Engineering%20Mathematics%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "physics",
+    "title": "Physics",
+    "category": "Engineering",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Physics.",
+    "roadmap": [
+      "Units, vectors and mechanics foundations",
+      "Electricity, waves, optics and thermodynamics",
+      "Connect concepts to problems and experiments"
+    ],
+    "importantTopics": [
+      "Units, vectors and mechanics foundations",
+      "Electricity, waves, optics and thermodynamics",
+      "Connect concepts to problems and experiments"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://www.khanacademy.org/science",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Physics full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Physics%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Physics topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Physics%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "chemistry",
+    "title": "Chemistry",
+    "category": "Engineering",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Chemistry.",
+    "roadmap": [
+      "Atomic structure, bonding and stoichiometry",
+      "Physical, organic and inorganic core concepts",
+      "Reactions, equations and exam-style practice"
+    ],
+    "importantTopics": [
+      "Atomic structure, bonding and stoichiometry",
+      "Physical, organic and inorganic core concepts",
+      "Reactions, equations and exam-style practice"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://www.khanacademy.org/science/chemistry",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Chemistry full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Chemistry%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Chemistry topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Chemistry%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "electrical",
+    "title": "Electrical Engineering",
+    "category": "Engineering",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Electrical Engineering.",
+    "roadmap": [
+      "Circuit laws and electrical quantities",
+      "Machines, power systems and electronics foundations",
+      "Analyze circuits and practice engineering problems"
+    ],
+    "importantTopics": [
+      "Circuit laws and electrical quantities",
+      "Machines, power systems and electronics foundations",
+      "Analyze circuits and practice engineering problems"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Electrical Engineering full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Electrical%20Engineering%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Electrical Engineering topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Electrical%20Engineering%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "electronics",
+    "title": "Electronics",
+    "category": "Engineering",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Electronics.",
+    "roadmap": [
+      "Semiconductors and basic circuit analysis",
+      "Analog, digital logic and signal fundamentals",
+      "Build and test small circuits and problem sets"
+    ],
+    "importantTopics": [
+      "Semiconductors and basic circuit analysis",
+      "Analog, digital logic and signal fundamentals",
+      "Build and test small circuits and problem sets"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Electronics full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Electronics%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Electronics topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Electronics%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "jee-main",
+    "title": "JEE Main",
+    "category": "Competitive Exams",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for JEE Main.",
+    "roadmap": [
+      "Map the current official syllabus and diagnose strengths",
+      "Study Physics, Chemistry and Mathematics topic by topic",
+      "Revise with timed official-pattern practice and error review"
+    ],
+    "importantTopics": [
+      "Map the current official syllabus and diagnose strengths",
+      "Study Physics, Chemistry and Mathematics topic by topic",
+      "Revise with timed official-pattern practice and error review"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://nta.ac.in/",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      },
+      {
+        "label": "National Testing Agency",
+        "url": "https://nta.ac.in/",
+        "kind": "Official exam notices and information"
+      }
+    ],
+    "videos": [
+      {
+        "label": "JEE Main full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=JEE%20Main%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "JEE Main topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=JEE%20Main%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "jee-advanced",
+    "title": "JEE Advanced",
+    "category": "Competitive Exams",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for JEE Advanced.",
+    "roadmap": [
+      "Review the current official syllabus and prerequisites",
+      "Build multi-step Physics, Chemistry and Mathematics reasoning",
+      "Practice official past papers and analyze mistakes"
+    ],
+    "importantTopics": [
+      "Review the current official syllabus and prerequisites",
+      "Build multi-step Physics, Chemistry and Mathematics reasoning",
+      "Practice official past papers and analyze mistakes"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://jeeadv.ac.in/",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      },
+      {
+        "label": "National Testing Agency",
+        "url": "https://nta.ac.in/",
+        "kind": "Official exam notices and information"
+      }
+    ],
+    "videos": [
+      {
+        "label": "JEE Advanced full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=JEE%20Advanced%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "JEE Advanced topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=JEE%20Advanced%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "neet",
+    "title": "NEET",
+    "category": "Competitive Exams",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for NEET.",
+    "roadmap": [
+      "Plan Biology, Physics and Chemistry from the current syllabus",
+      "Study NCERT concepts, diagrams and key examples",
+      "Use timed practice, spaced revision and error analysis"
+    ],
+    "importantTopics": [
+      "Plan Biology, Physics and Chemistry from the current syllabus",
+      "Study NCERT concepts, diagrams and key examples",
+      "Use timed practice, spaced revision and error analysis"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://nta.ac.in/",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      },
+      {
+        "label": "National Testing Agency",
+        "url": "https://nta.ac.in/",
+        "kind": "Official exam notices and information"
+      }
+    ],
+    "videos": [
+      {
+        "label": "NEET full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=NEET%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "NEET topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=NEET%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "gate",
+    "title": "GATE",
+    "category": "Competitive Exams",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for GATE.",
+    "roadmap": [
+      "Select the paper and read its official syllabus",
+      "Revise engineering fundamentals and general aptitude",
+      "Practice previous papers and timed mock questions"
+    ],
+    "importantTopics": [
+      "Select the paper and read its official syllabus",
+      "Revise engineering fundamentals and general aptitude",
+      "Practice previous papers and timed mock questions"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://gate2026.iisc.ac.in/",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      }
+    ],
+    "videos": [
+      {
+        "label": "GATE full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=GATE%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "GATE topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=GATE%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  },
+  {
+    "id": "biology",
+    "title": "Biology",
+    "category": "Engineering",
+    "description": "Curated starting points and a beginner-to-advanced roadmap for Biology.",
+    "roadmap": [
+      "Cell biology, genetics and biological foundations",
+      "Human physiology, ecology and evolution",
+      "Use diagrams, recall practice and experiment-based reasoning"
+    ],
+    "importantTopics": [
+      "Cell biology, genetics and biological foundations",
+      "Human physiology, ecology and evolution",
+      "Use diagrams, recall practice and experiment-based reasoning"
+    ],
+    "references": [
+      {
+        "label": "Official docs / subject guide",
+        "url": "https://www.khanacademy.org/science/biology",
+        "kind": "Study notes and reference"
+      },
+      {
+        "label": "NPTEL — free course catalogue",
+        "url": "https://nptel.ac.in/courses",
+        "kind": "Courses, lectures and study materials"
+      },
+      {
+        "label": "SWAYAM — explore courses",
+        "url": "https://swayam.gov.in/explorer",
+        "kind": "Courses and course materials"
+      },
+      {
+        "label": "MIT OpenCourseWare — open materials",
+        "url": "https://ocw.mit.edu/",
+        "kind": "Open course notes and materials"
+      },
+      {
+        "label": "NCERT textbooks and e-books",
+        "url": "https://ncert.nic.in/textbook.php",
+        "kind": "Textbook / PDF access"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Biology full-course video lessons",
+        "url": "https://www.youtube.com/results?search_query=Biology%20full%20course%20tutorial",
+        "kind": "YouTube search"
+      },
+      {
+        "label": "Biology topic tutorials",
+        "url": "https://www.youtube.com/results?search_query=Biology%20topic%20wise%20tutorial",
+        "kind": "YouTube search"
+      }
+    ]
+  }
+]
